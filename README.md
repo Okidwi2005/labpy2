@@ -50,7 +50,7 @@ Program kalkulator sederhana yang mampu melakukan operasi dasar matematika denga
 ![Screenshot 2024-11-02 144616](https://github.com/user-attachments/assets/76c75425-849b-4fff-b891-0a5c6264cac4)
 
 ## Contoh Output Program
-
+![Screenshot 2024-11-02 145341](https://github.com/user-attachments/assets/60f541f1-b041-4b9f-ae7e-e840809df072)
 
 ## Cara Kerja Program
 
