@@ -12,3 +12,4 @@ Mendapatkan perhitungan harga tiket final dengan diskon jika memiliki kartu memb
 ![Screenshot 2024-11-02 130134](https://github.com/user-attachments/assets/25a83822-80e2-4186-ac71-ef2623fe0d63)
 
 ## Contoh Output Program
+![Screenshot 2024-11-02 140000](https://github.com/user-attachments/assets/65d90611-70b2-4dc8-a382-57f86f418c4f)
