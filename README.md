@@ -48,3 +48,13 @@ Program kalkulator sederhana yang mampu melakukan operasi dasar matematika denga
 
 ## Flowchart Kalkulator
 ![Screenshot 2024-11-02 144616](https://github.com/user-attachments/assets/76c75425-849b-4fff-b891-0a5c6264cac4)
+
+## Cara Kerja Program
+
+### Alur Proses Kalkulator
+1. Program meminta input angka pertama
+2. Program meminta input angka kedua
+3. Program meminta input operator matematika
+4. Fungsi `kalkulator()` memproses input sesuai operator
+5. Menampilkan hasil perhitungan
+
