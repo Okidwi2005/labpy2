@@ -10,3 +10,5 @@ Mendapatkan perhitungan harga tiket final dengan diskon jika memiliki kartu memb
 
 ## Flowchart Ticket
 ![Screenshot 2024-11-02 130134](https://github.com/user-attachments/assets/25a83822-80e2-4186-ac71-ef2623fe0d63)
+
+## Contoh Output Program
