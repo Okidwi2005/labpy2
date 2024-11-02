@@ -8,3 +8,4 @@ Memilih jenis tiket (VIP/Reguler)
 Menentukan status member
 Mendapatkan perhitungan harga tiket final dengan diskon jika memiliki kartu member
 
+## Flowchart Ticket
